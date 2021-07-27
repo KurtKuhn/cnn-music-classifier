@@ -22,3 +22,9 @@ This is a simple convolutional neural network that helps classify a song's genre
 5. Run the flask server with `python app.py`
 6. Access http://127.0.0.1:5000/ or http://localhost:5000/ from your browser
 7. The web application should be up and running!
+
+## Misc
+
+The model was trained using the famous [GTZAN Dataset](https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification).  If you're in need of WAV files to try, you can use these!
+
+Note: the website only handles WAV files less than 10 MB

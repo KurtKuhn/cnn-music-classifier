@@ -15,8 +15,10 @@ This is a simple convolutional neural network that helps classify a song's genre
 
 ## How to launch the program locally (not recommended)
 
-1. Clone this repo locally
-2. From the CLI, run `pip install -r requirements.text`
-3. Run the flask server with `python app.py`
-4. Access http://127.0.0.1:5000/ or http://localhost:5000/ from your browser
-5. The web application should be up and running!
+1. Clone or download this repo locally
+2. From the CLI, access the directory where the repo was extracted to
+3. Traverse to the `/web` directory of the file
+4. Run `pip install -r requirements.text`
+5. Run the flask server with `python app.py`
+6. Access http://127.0.0.1:5000/ or http://localhost:5000/ from your browser
+7. The web application should be up and running!
